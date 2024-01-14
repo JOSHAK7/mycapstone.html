@@ -1,0 +1,109 @@
+h1{
+    font-family: "sacramento",cursive;
+    margin-bottom: 50px;
+    color: #66bfbf;
+    font-size: 5.625rem;
+}
+div{
+    display: block;
+}
+
+.cloud-top{
+    margin-left: 320px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-right: auto;
+}
+.top-container{
+    background-color:#e4f9f5;
+}
+body{
+    text-align: center;margin-left: auto;
+    font-family: "Merriweather", serif;
+    margin: 0;
+}
+img{
+    height: 48px;
+    width: 150px;
+}
+h2{
+    color: #66bfbf;
+    margin-bottom: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+span{
+    text-decoration: underline;
+}
+.plant{
+    height: 357px;
+    width: 598px;
+}
+.cloud-down{
+    position: absolute;
+}
+.josh{
+    position: sticky;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.profile{
+    display: block;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.intro{
+    margin: auto;
+    width: 30%;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.cattyping{
+    float: left;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.catimg{
+    height: 250px;
+    width: 250px;
+}
+h3{
+    color: #66bfbf;
+    font-weight: bold;
+}
+p{
+    font-size: 16.3548px;
+}
+.dj{
+    float: left;
+    margin: 30px;
+}
+.djockey{
+    height: 250px;
+    width: 250px;
+}
+.contact{
+    background-color:  #11cdd4;;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
